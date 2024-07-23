@@ -1,0 +1,200 @@
+
+.just-textH{
+    font-size: 30px;  
+    font-weight: bold;
+    margin-left: 30px;
+    margin-bottom: 40px;
+  }
+  
+  
+  
+  .just-img {
+      padding: 10px;
+      width: 188px;
+      height: 267px;
+  }
+  
+  .just {
+  
+    width: 253px;
+    position: relative;
+    border: 1px solid rgb(234, 228, 228);
+    padding: 20px;
+  }
+  .just:hover {
+      border-color: rgb(180, 180, 180);
+      /* Change to your desired border color */
+  }
+  
+  .plussymbols {
+      margin-top: 30px;
+      border: 1px solid rgb(41, 40, 40);
+      padding: 6px;
+      border-radius: 2px;
+      display: inline-block;
+      width: 120px;
+      margin-left: 30px;
+    
+  }
+  
+  .just-priceG {
+      margin: 5px;
+      font-size: 18px;
+      font-weight: bold;
+      color: rgb(10, 113, 45);
+      margin-left: 20px;
+  }
+  
+  .just-offer-strip{
+      background-color: rgb(14, 134, 64);
+      color: rgb(255, 255, 255);
+      width: 44px;
+      font-size: 12px;
+      padding-left: 8px;
+      position: absolute;
+      left: 16px;
+      margin-top: 5px;
+  
+  }
+  
+  
+  .just-submenu {
+      margin-top: -10px;
+      height: 180px;
+      width: 253px;
+      display: none;
+      position: absolute;
+  
+      top: calc(100% + 5px); /* Position the submenu below the column with some space */
+      left: 0; /* Align the submenu with the left edge of the column */
+      background-color: white; /* Background color for the submenu */
+      border: 1px solid transparent; /* Initial border style for submenu */
+      border: 1px solid rgb(244, 241, 241);
+      padding: 10px;
+      border: 1px solid transparent;
+      /* Initial border style for submenu */
+      transition: border-color 0.3s ease;
+      /* Transition effect for submenu border */
+      z-index: 1000;
+      /* Adjust as needed */
+  }
+  
+  .just-addcart {
+      margin-left: 10px;
+      width: 200px;
+      height: 40px;
+      background-color: orange;
+      border: 0px solid #ccc;
+      font-weight: 600;
+      border-radius: 5px;
+      padding-right: 40px;
+  }
+  .just-button-cart{
+  margin-left: 10px;
+      width: 30px;
+      height: 20px;
+      margin: 10px;
+  }
+  
+  .just:hover .just-submenu {
+      border-color: rgb(180, 180, 180);
+      display: block;
+  
+  }
+  
+  .just-text {
+      font-size: 14px;
+      font-weight: bold;
+      margin-left: 20px;
+  
+  }
+  
+  .just-text1 {
+      font-size: 16px;
+      margin-left: 20px;
+      color: rgba(47, 108, 241, 0.845);
+  
+  }
+  
+  .star-rating {
+      font-size: 24px;
+      padding-left: 40px;
+  
+  }
+  
+  .star {
+      color: gold;
+      /* Change the color of the stars */
+  }
+  
+  .star.half {
+      display: inline-block;
+      position: relative;
+      color: #ccc;
+      /* Change the color of the half star */
+  }
+  
+  .star.half:before {
+      content: '\2605';
+      position: absolute;
+      left: 0;
+      top: 0;
+      /* Ensure the half star aligns properly */
+      width: 50%;
+      overflow: hidden;
+      color: gold;
+      /* Change the color of the half star */
+  }
+  
+  .star.empty {
+      color: #ccc;
+      /* Change the color of the empty stars */
+  }
+  
+  
+  .rating-line {
+      margin-left: 20px;
+      width: 150px;
+      /* Adjust the width as needed */
+      height: 10px;
+      /* Adjust the height as needed */
+      background: linear-gradient(to right, gold 50%, gray 50%);
+  }
+  
+  .sold-style {
+      margin-left: 20px;
+      font-size: 15px;
+      font-weight: 700;
+  }
+  
+  
+  .just-hover-submenu{
+      display: none;
+      position: absolute;
+      top: 40px;
+      /* Adjust as needed */
+      left: 180px;
+      width: 50px;
+      background-color: #fff;
+      /* Adjust as needed */
+      border: 1px solid #ffffff;
+      /* Adjust as needed */
+      padding: 10px;
+      z-index: 999;
+  }
+  
+  .just:hover .just-hover-submenu{
+      display: block;
+  }
+  
+  
+  .col-logo2 {
+      height: 24px;
+      width: 24px;
+      color: orange;
+  
+  }
+  
+  .col-logo2:hover {
+      color: rgb(2, 2, 2);
+  }

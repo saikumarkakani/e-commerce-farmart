@@ -1,0 +1,162 @@
+.store-H-bg{
+    background-color: rgb(248, 247, 247);
+    padding: 6px;
+}
+.store-H-text{
+    color: rgb(62, 62, 237);
+    margin:10px;
+    margin-left: 30px;
+}
+
+.store-text{
+    margin-left: 697px;
+    font-size: 44px;
+    font-weight: bold;
+    margin-bottom: 51px;
+}
+.store-text-box{
+    width: 1478px;
+    margin-left: 21px;
+    height: 62px;
+    background-color: rgb(248, 247, 247);
+    padding: 11px;
+    border: 1px solid rgb(223, 221, 221);
+}
+.store-text-box-txt{
+    font-size: 20px;
+    color: rgb(146, 145, 144);
+}
+.store-icon-gap{
+    margin-left: 1040px;
+}
+.store-icon-box{
+    padding: 6px;
+    border-radius: 2px;
+    background-color: orange;
+    height: 35px;
+    width: 88px;
+}
+.storeicon{
+    width: 32px;
+    height: 19px;
+}
+.storeicon1{
+    width: 42px;
+    height: 29px;
+    margin: 5px;
+}
+
+
+.store-text-box1{
+    width: 1478px;
+    margin-left: 21px;
+    height: 62px;
+    background-color: rgb(248, 247, 247);
+    padding: 11px;
+    border: 1px solid rgb(223, 221, 221);
+}
+.store-input{
+    width: 60px;
+    height: 10px;
+}
+
+.text-gap{
+    margin-left: 25px;
+}
+
+.s-text{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.s-text:hover{
+    color: orange;
+}
+.Sbox-text{
+    font-size: 16px;
+}
+.Sbox-text:hover{
+    color: orange;
+}
+
+.store-img {
+    padding: 10px;
+    width: 208px;
+    height: 267px;
+    margin-left: 33px;
+}
+
+.store-m-box {
+
+    margin-left: 45px;
+    width: 304px;
+    position: relative;
+    border: 1px solid rgb(236, 232, 232);
+    padding: 14px;
+    margin-bottom: 80px;
+}
+
+
+.star-rating {
+    font-size: 24px;
+    padding-left: 40px;
+
+}
+
+.star {
+    color: gold;
+    /* Change the color of the stars */
+}
+
+.star.half {
+    display: inline-block;
+    position: relative;
+    color: #ccc;
+    /* Change the color of the half star */
+}
+
+.star.half:before {
+    content: '\2605';
+    position: absolute;
+    left: 0;
+    top: 0;
+    /* Ensure the half star aligns properly */
+    width: 50%;
+    overflow: hidden;
+    color: gold;
+    /* Change the color of the half star */
+}
+
+.star.empty {
+    color: #ccc;
+    /* Change the color of the empty stars */
+}
+
+
+.rating-line {
+    margin-left: 20px;
+    width: 150px;
+    /* Adjust the width as needed */
+    height: 10px;
+    /* Adjust the height as needed */
+    background: linear-gradient(to right, gold 50%, gray 50%);
+}
+
+.sold-style {
+    margin-left: 20px;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.btn-visit{
+    margin-left: 29px;
+    width: 139px;
+    height: 41px;
+    border: 1px solid #ccc;
+    background-color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+.btn-visit:hover{
+    background-color: orange;
+    color: white;
+}

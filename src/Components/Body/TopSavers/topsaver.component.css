@@ -1,0 +1,231 @@
+.top-up-gap {
+    margin-left: 40px;
+    margin-bottom: 60px;
+}
+
+.top-up-gap:hover {
+    color: orange;
+}
+
+.saver-img {
+    padding: 10px;
+    width: 188px;
+    height: 267px;
+}
+
+.saver-col {
+    width: 253px;
+    position: relative;
+    border: 1px solid rgb(234, 228, 228);
+    padding: 20px;
+
+}
+.saver-col:hover {
+    border-color: rgb(180, 180, 180);
+    /* Change to your desired border color */
+}
+.plussymbols {
+    margin-top: 30px;
+    border: 1px solid rgb(41, 40, 40);
+    padding: 6px;
+    border-radius: 2px;
+    display: inline-block;
+    width: 120px;
+    margin-left: 40px;
+
+}
+
+.saver-submenu {
+    margin-top: -10px;
+    height: 180px;
+    width: 252px;
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: white;
+    border: 1px solid rgb(244, 241, 241);
+    padding: 10px;
+    border: 1px solid transparent;
+    /* Initial border style for submenu */
+    transition: border-color 0.3s ease;
+    z-index: 1000;
+    /* Adjust as needed */
+}
+
+.saver-addcart {
+    margin-left: 10px;
+    width: 200px;
+    height: 40px;
+    background-color: orange;
+    border: 0px solid #ccc;
+    font-weight: 600;
+    border-radius: 5px;
+    padding-right: 40px;
+}
+
+.button-cart{
+    margin-left: 10px;
+        width: 30px;
+        height: 20px;
+        margin: 10px;
+    }
+
+.saver-col:hover .saver-submenu {
+    border-color: rgb(180, 180, 180);
+    display: block;
+
+}
+
+.savers-text {
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 20px;
+
+}
+
+.savers-text1 {
+    font-size: 16px;
+    margin-left: 20px;
+    color: rgba(47, 108, 241, 0.845);
+
+}
+
+.star-rating {
+    font-size: 24px;
+    padding-left: 40px;
+
+}
+
+.star {
+    color: gold;
+    /* Change the color of the stars */
+}
+
+.star.half {
+    display: inline-block;
+    position: relative;
+    color: #ccc;
+    /* Change the color of the half star */
+}
+
+.star.half:before {
+    content: '\2605';
+    position: absolute;
+    left: 0;
+    top: 0;
+    /* Ensure the half star aligns properly */
+    width: 50%;
+    overflow: hidden;
+    color: gold;
+    /* Change the color of the half star */
+}
+
+.star.empty {
+    color: #ccc;
+    /* Change the color of the empty stars */
+}
+
+.saver-price {
+    margin: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(164, 14, 14);
+    margin-left: 20px;
+}
+.saver-priceG {
+    margin: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(10, 113, 45);
+    margin-left: 20px;
+}
+.saver-priceD {
+    margin: 5px;
+    font-size: 12px;
+    font-weight: bold;
+    color: rgb(57, 57, 57);
+    margin-left: 20px;
+}
+.rating-line {
+    margin-left: 20px;
+    width: 150px;
+    /* Adjust the width as needed */
+    height: 10px;
+    /* Adjust the height as needed */
+    background: linear-gradient(to right, gold 50%, gray 50%);
+}
+
+.sold-style {
+    margin-left: 20px;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.saver-foot-gap {
+    margin-bottom: 180px;
+}
+.b1-style{
+    width: 483px;
+    height: 300px;
+}
+
+.offer-strip{
+    background-color: rgb(14, 134, 64);
+    color: rgb(255, 255, 255);
+    width: 44px;
+    font-size: 12px;
+    padding-left: 8px;
+    position: absolute;
+    left: 16px;
+    margin-top: 5px;
+
+}
+
+
+
+
+
+.hover-submenu2 {
+    display: none;
+    position: absolute;
+    top: 40px; /* Adjust as needed */
+    left: 180px;
+    width: 50px;
+    background-color: #fff; /* Adjust as needed */
+    border: 1px solid #ffffff; /* Adjust as needed */
+    padding: 10px;
+    z-index: 999;
+}
+
+.saver-col:hover .hover-submenu2 {
+    display: block;
+}
+
+.col-logo{
+    height: 24px;
+     width: 24px;
+     color: orange;
+
+}
+.col-logo:hover{
+    color: rgb(2, 2, 2);
+}
+
+.wishlist-Msg{
+    color: rgb(255, 255, 255);
+    background-color: rgb(98, 244, 120);
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 0px;
+    width: 391px;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    padding-left: 8px;
+    position: fixed;
+    top:520px;
+    left:1050px;
+    font-weight: 600;
+
+}

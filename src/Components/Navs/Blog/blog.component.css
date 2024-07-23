@@ -1,0 +1,114 @@
+
+.blog-image{
+    margin-left: -165px;
+    height: 183px;
+    width: 324px;
+    
+}
+.Sblog-image{
+  margin-left: -64px;
+  height: 75px;
+  width: 98px;
+}
+  
+
+
+  .blogB-text{
+    margin-left: -120px;
+    font-size: 27px;
+    font-weight: bold;
+}
+.SblogB-text{
+  margin-left: -140px;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+
+.blogB-text:hover{
+  border-bottom: 2px solid rgb(2, 2, 2); /* Adjust the size and color as needed */
+}
+
+
+  .text-S{
+    margin-left: -126px;
+    font-size: 16px;
+  }
+
+  .Sblog-Btext-L{
+    margin-left: -139px;
+  }
+  .blog-Btext-L{
+    margin-left: -117px;
+  }
+
+  .blog{
+    margin-left: 220px;
+    padding: 35px;
+  }
+
+  .blog2{
+    margin-left: 170px;
+    padding: 35px;
+  }
+
+
+
+  .hrline{
+    width: 834px;
+    margin-left: -177px;
+  }
+
+  .hrline1{
+    width: 485px;
+    margin-left: -87px;
+  }
+
+
+  .Blogsearch-style{
+    height: 22px;
+    width: 25px;
+    margin-left: -39px;
+}
+.BlogSearch-for-Products{
+  width: 333px;
+  height: 26px;
+  padding: 22px;
+  background-color: #f8f9fa;
+  border: 1px solid #dad7d7;
+  
+}
+.Bcate-style{
+  margin-top: 40px;
+  margin-bottom:20px ;
+  font-size: 27px;
+  font-weight: bold;
+}
+.Bcate-style1{
+  margin-top: 40px;
+  margin-bottom:20px ;
+  font-size: 27px;
+  font-weight: bold;
+}
+.Bcate-style-smalltxt{
+  margin-left: -4px;
+  font-size: 16px;
+  color: #626161;
+}
+
+.blog-pro-box{
+  font-size: 14px;
+  padding-top: 8px;
+  padding-left: 17px;
+  margin: 14px;
+  width: 86px;
+  height: 40px;
+  border: 1px solid rgb(255, 255, 255);
+  background-color: rgb(245 241 241);
+  border-radius: 5px;
+
+}
+.blog-pro-box:hover{
+  background-color: orange;
+  color: #ffffff;
+}

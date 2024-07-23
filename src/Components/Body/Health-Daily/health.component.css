@@ -1,0 +1,37 @@
+.bg{
+    background-color: rgb(245, 248, 248);
+    height: 691px;
+}
+
+.health-up-gap{
+    margin-left: 674px;
+}
+.health-font{
+    font-size: 30px;
+    font-weight: 500;
+    margin-left: 40px;
+    padding: 10px;
+}
+.health-pic{
+    width: 466px;
+    height: 322px;
+}
+.health-pic-text{
+    font-size: 20px;
+    font-weight: bold;
+}
+.health-foot-gap{
+    margin-bottom: 200px;
+
+}
+.ss{
+    padding: 5px;
+    width: 490px;
+    height: 630px;
+}
+.col-bg{
+    background-color: rgb(255, 255, 255);
+    width: 1026px;
+    height: 527px;
+    padding: 23px;
+}

@@ -1,0 +1,51 @@
+.cate-gap{
+    margin-top: 80px;
+    margin-bottom: 30px;
+
+}
+
+
+
+.cate-text{
+    
+    font-size: 30px;
+    font-weight: 500;
+    margin-left: 40px;
+    
+
+}
+.cate-box{
+    margin-top: 60px;
+    width: 190px;
+    height: 200px;
+    background-color: rgb(244, 244, 245);
+    margin-left: 10px;
+    margin: 30px;
+    border-radius: 10px;
+}
+
+.cate-box-img{
+    padding: 5px;
+    height: 113px;
+    margin-left: 38px;
+    margin-top: 18px;
+}
+.cate-box-text{
+    margin-left: 15px;
+    font-size: 17px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+/* .slider{
+    border: 0px solid #f7f2f2;
+} */
+.cate-box:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(226, 122, 3);
+    box-shadow: 0 0 30px rgba(205, 203, 203, 0.5);
+    border: 0px solid #ccc;
+}
+
+
+
+

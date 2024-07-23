@@ -1,0 +1,359 @@
+.productimg-backg{
+    background-image: url("C:\Users\ranji\Desktop\new project\my-react-app\src\assets\bannerBg.jpg");
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+.product-text{
+    font-size: 38px;
+    font-weight: bold;
+    margin: 30px;
+}
+
+.product-smalltext{
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 810px;
+}
+.pro-option{
+    width: 170px;
+    height: 40px;
+    margin-left: 10px;
+    border: 1px solid rgb(223, 221, 221);
+    color:rgb(119, 118, 118) ;
+}
+.product-smalltext1{
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 50px;
+}
+.pro-icon1{
+   height: 25px;
+   width: 80px;
+   color: orange;
+
+}
+.pro-icon2{
+    height: 28px;
+    width: 80px;
+    margin-left: -40px;
+
+ }
+ .pro-col-4gap{
+    margin-left: -93px;
+ }
+ .pro-box1{
+    display: inline-block;
+    position: relative;
+     background-color: rgba(247, 245, 243, 0.967);
+    width: 272px;
+    height: 475px;
+    padding: 1px;
+ }
+
+.pro-box1-subtext{
+    margin: 5px;
+
+}
+.pro-box1-subtext:hover{
+    color: orange;
+}
+
+
+
+ .pro-box2{
+    background-color:rgba(247, 245, 243, 0.967);
+   width: 272px;
+   height: 275px;
+   padding: 1px;
+}
+.pro-box3{
+    background-color: rgba(247, 245, 243, 0.967);
+    width: 272px;
+    height: 1093px;
+    padding: 1px;
+}
+.pro-box-text{
+    margin-top: 18px;
+    font-size: 19px;
+    font-weight: 600;
+    margin-left: 36px;
+}
+.pro-box-text-small{
+ 
+    font-size: 14px;
+    font-weight: 400;
+    list-style-type: none;
+    margin: 8px;
+}
+.pro-box-text-small1{
+    font-size: 14px;
+    font-weight: 400;
+    list-style-type: none;
+    margin: 8px;
+
+}
+.pro-box-text-small:hover{
+    color: orange;
+}
+
+.price-range{
+    width: 200px;
+    height: 5px;
+    cursor: pointer;
+    margin-left: 30px;
+}
+.circle {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    margin: 0px;
+    margin-left: 20px;
+  }
+  
+  .red {
+    background-color: rgb(247, 54, 54);
+  }
+  
+  .green {
+ 
+    background-color: rgb(61, 234, 142);
+  }
+  
+  .blue {
+    background-color: rgb(98, 98, 246);
+  }
+  
+  .yellow {
+    background-color: rgb(244, 179, 101);
+  }
+  .black{
+    background-color: black;
+  }
+  .size-box{
+    margin: 14px;
+    padding: 8px;
+    width: 60px;
+    height: 40px;
+    border: 1px solid rgb(58, 57, 57);
+    background-color: rgb(255, 255, 255);
+
+  }
+  .size-box1{
+    margin: 12px;
+    padding: 3px;
+    padding-left: 12px;
+    width: 49px;
+    height: 34px;
+    border: 1px solid rgb(58, 57, 57);
+    background-color: rgb(255, 255, 255);
+
+  }
+  .size-box2{
+    padding-top: 5px;
+    padding-left: 11px;
+    margin: 12px;
+    width: 81px;
+    height: 38px;
+    border: 1px solid rgb(58, 57, 57);
+    background-color: rgb(255, 255, 255);
+
+  }
+
+
+
+
+   /* col-8 css */
+
+
+  .top-up-gap {
+    margin-left: 40px;
+    margin-bottom: 60px;
+}
+
+.top-up-gap:hover {
+    color: orange;
+}
+
+.product-img {
+    padding: 10px;
+    width: 188px;
+    height: 267px;
+}
+
+.product-col {
+    position: relative;
+    border: 1px solid rgb(234, 228, 228);
+    /* You can adjust the border style, color, and width as needed */
+    padding: 10px;
+    margin: 10px;
+    /* Optional: Add padding to create space between the border and the content */
+
+}
+
+.plussymbols {
+    margin-top: 30px;
+    border: 1px solid rgb(41, 40, 40);
+    padding: 6px;
+    border-radius: 2px;
+    display: inline-block;
+    width: 120px;
+    margin-left: 30px;
+
+}
+.product-priceG {
+    margin: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(10, 113, 45);
+    margin-left: 20px;
+}
+
+  /* bottom submenu */
+.product-submenu {
+    margin-top: -10px;
+    height: 180px;
+    width: 230px;
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: white;
+    border: 0px solid rgb(243, 240, 240);
+    padding: 10px;
+    border: 1px solid transparent;
+    /* Initial border style for submenu */
+    transition: border-color 0.3s ease;
+    z-index: 1000;
+    /* Adjust as needed */
+}
+
+.product-addcart {
+    margin-left: 20px;
+    width: 180px;
+    height: 40px;
+    background-color: orange;
+    border: 0px solid #ccc;
+    font-weight: 600;
+    border-radius: 5px;
+    padding-right: 40px;
+}
+.button-cart{
+    width: 30px;
+    height: 20px;
+    margin: 10px;
+}
+
+.product-col:hover {
+    border-color: rgb(234, 228, 228);
+    /* Change to your desired border color */
+}
+
+.product-col:hover .product-submenu {
+    border-color: rgb(234, 228, 228);
+    display: block;
+
+}
+
+.product-text {
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 20px;
+
+}
+
+.product-text1 {
+    font-size: 16px;
+    margin-left: 20px;
+    color: rgba(47, 108, 241, 0.845);
+
+}
+
+.star-rating {
+    font-size: 24px;
+    padding-left: 40px;
+
+}
+
+.star {
+    color: gold;
+    /* Change the color of the stars */
+}
+
+.star.half {
+    display: inline-block;
+    position: relative;
+    color: #ccc;
+    /* Change the color of the half star */
+}
+
+.star.half:before {
+    content: '\2605';
+    position: absolute;
+    left: 0;
+    top: 0;
+    /* Ensure the half star aligns properly */
+    width: 50%;
+    overflow: hidden;
+    color: gold;
+    /* Change the color of the half star */
+}
+
+.star.empty {
+    color: #ccc;
+    /* Change the color of the empty stars */
+}
+
+.product-price {
+    margin: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(164, 14, 14);
+    margin-left: 20px;
+}
+
+.rating-line {
+    margin-left: 20px;
+    width: 150px;
+    /* Adjust the width as needed */
+    height: 10px;
+    /* Adjust the height as needed */
+    background: linear-gradient(to right, gold 50%, gray 50%);
+}
+
+.sold-style {
+    margin-left: 20px;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.col-product {
+    flex: 0 0 auto;
+    width: 66.66666667%;
+    margin-left: -70px;
+}
+/* Top Submenu */
+.hover-submenu {
+    display: none;
+    position: absolute;
+    top: 60px; /* Adjust as needed */
+    left: 170px;
+    width: 50px;
+    background-color: #fff; /* Adjust as needed */
+    border: 1px solid #ffffff; /* Adjust as needed */
+    padding: 10px;
+    z-index: 999;
+}
+
+.product-col:hover .hover-submenu {
+ 
+    display: block;
+}
+.col-logo3{
+    height: 24px;
+     width: 24px;
+     color: orange;
+
+}
+.col-logo3:hover{
+    color: rgb(2, 2, 2);
+}

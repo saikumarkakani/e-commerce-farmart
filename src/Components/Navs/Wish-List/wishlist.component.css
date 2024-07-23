@@ -1,0 +1,68 @@
+.wishlist-text{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px;
+}
+.wishlist-table{
+    margin: 133px;
+    margin-top: 40px;
+}
+.wishlist-table tbody tr {
+    background-color: rgb(144, 146, 146);
+}
+.wishlistimg{
+    margin-top: -29px;
+    width: 96px;
+    height: 74px;
+}
+.wishlist-box-text{
+    font-size: 14px;
+    font-weight: 500;
+}
+.wishlist-box-text1{
+    font-size: 15px;
+    font-weight: 500;
+    color: rgb(123, 124, 124);
+}
+.wishlist-box-text2{
+    font-size: 16px;
+    font-weight: 500;
+    color:orange;
+}
+.wishlist-box-text3{
+    font-size: 12px;
+}
+
+.wishlist-addcart {
+    margin-left: 20px;
+    width: 161px;
+    height: 40px;
+    background-color: orange;
+    border: 0px solid #ccc;
+    font-weight: 600;
+    border-radius: 5px;
+    padding-right: 40px;
+}
+.wishlist-button-cart{
+    width: 30px;
+    height: 20px;
+    margin: 10px;
+}
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.page-btn {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    color: #333;
+    padding: 8px 12px;
+    margin: 0 5px;
+    cursor: pointer;
+}
+.page-btn:hover{
+    background-color: orange;
+}

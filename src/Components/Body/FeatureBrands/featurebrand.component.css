@@ -1,0 +1,40 @@
+.feat-gap{
+    margin-top: 70px;
+
+}
+.feat-text{
+    
+    font-size: 30px;
+    font-weight: 500;
+    margin-left: 40px;
+}
+.feat-box{
+    margin-top: 60px;
+    width: 404px;
+    height: 370px;
+    margin-left: 40px;
+    border: 0px solid #ccc;
+    box-shadow: 0 0 1px rgba(212, 211, 211, 0.5);
+    pointer-events: none;
+}
+.feat-img{
+    width: 350px;
+    height: 250px;
+    margin-left: 3px;
+}
+.feat-box-text{
+    margin-top: 5px;
+    font-size: 22px;
+    color: rgb(124, 133, 137);
+
+}
+.feat-box-texts{
+    margin-top: 5px;
+    font-size: 25px;
+    color: rgb(5, 5, 5);
+    font-weight: 600;
+}
+.feat-box-texts:hover{
+    color: rgb(210, 126, 8);
+    cursor: pointer;
+}

@@ -1,0 +1,57 @@
+.googleMap{
+    width: 1315px;
+    margin-left: 88px;
+    margin-bottom: 82px;
+}
+
+
+.CB-text{
+    font-size: 30px;
+    font-weight: bold;
+}
+.cont-col{
+    margin-left: 226px;
+}
+.CS-text{
+    margin: 13px;
+    font-size: 24px;
+    font-weight: 400;
+}
+.CS-text1{
+    margin: 8px;
+    font-size: 15px;
+    font-weight: 400;
+}
+.vertical-line {
+    border-left: 1px solid rgb(222, 221, 221); /* Adjust the color and style as needed */
+    height: 435px; /* Adjust the height as needed */
+    margin-left: 60px;
+  }
+  .con-col2{
+    margin-left: 140px;
+
+  }
+  .cf-gap{
+    margin-left: 20px;
+  }
+.cinput{
+    height: 51px;
+    width: 305px;
+}
+.cinput1{
+    height: 51px;
+    width: 628px;
+}
+.cinput2{
+    height: 121px;
+    width: 628px;
+}
+.CButton{
+    margin-bottom: 141px;
+    margin-top: 23px;
+    width: 126px;
+    height: 42px;
+    background-color: orange;
+    border: 1px solid rgb(182, 178, 178);
+    border-radius: 5px;
+}

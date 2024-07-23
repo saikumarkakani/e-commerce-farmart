@@ -1,0 +1,18 @@
+.banner1{
+    width: 900px;
+    height: 455px;
+  
+}
+.banner2{
+height: 455px;
+width: 520px;
+
+}
+.banner-backg{
+    background-image: url("C:\Users\ranji\Desktop\new project\my-react-app\src\assets\bannerBg.jpg");
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+.banner-style{
+    margin-left: -80px;
+}

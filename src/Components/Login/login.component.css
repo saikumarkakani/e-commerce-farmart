@@ -1,0 +1,138 @@
+.login-body{
+    padding-top: 350px;
+      background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 70vh; 
+    margin: 0; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 400px;
+  }
+  
+  .login-form{
+    padding: 20px;
+    margin: 20px;
+    height: 760px;
+    width: 681px;
+    border-radius: 0%;
+    border: 1px solid #eee9e9;
+  
+    background-color:#f9f9f9db ;
+   
+  }
+  .login-lock{
+    margin-top: 7px;
+    width: 30px;
+    height: 30px;
+    margin-left: 11px;
+    color: orange;
+
+  }
+  .lock-box{
+    margin-top: 22px;
+    width: 50px;
+    height: 50px;
+    background-color: #ffffff;
+    margin-left: 14px;
+  }
+  .login-text{
+    font-size: 27px;
+    font-weight: 500;
+    margin-left: 48px;
+  }
+  .login-text-small{
+    margin-top: -13px;
+    font-size: 14px;
+    margin-left: 105px;
+    
+  }
+  .mail-style{
+    margin-left: 40px;
+    border-radius: 3px;
+    padding: 9px;
+    margin-top: -2px;
+    width: 45px;
+    height: 40px;
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    
+  }
+
+  .mail-input{
+    margin-left: -2px;
+    width: 482px;
+    border: 1px solid #ffffff;
+
+  }
+  .email-text{
+    margin-left: 42px;
+    padding: 5px;
+    font-weight: 400;
+  }
+  .remember{
+    margin-top: 15px;
+    margin-left: 51px;
+  }
+  .forgot{
+    font-size: 16px;
+    margin-left: 263px;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  .forgot:hover{
+    color: orange;
+  }
+  .login-button{
+    font-size: 20px;
+    margin-left: 37px;
+    background-color: orange;
+    border-radius: 8px;
+    width: 546px;
+    height: 51px;
+    border: 1px solid #ffffff;
+  }
+  .register{
+    font-size: 16px;
+    text-decoration: underline;
+    cursor: pointer;
+
+  }
+  .register:hover{
+    color: orange;
+  }
+  .acc{
+    margin-left: 30px;
+    margin-left: 161px;
+    padding: 15px;
+  }
+.center-box-login{
+    padding: 13px;
+    width: 130px;
+    height: 50px;
+    background-color: #ffffff;
+    margin-left: 250px;
+
+}
+
+.G-button{
+    font-size: 20px;
+    margin-left: 37px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    width: 546px;
+    height: 45px;
+    border: 1px solid #a9a8a8;
+  }
+.g{
+    margin-top: 2px;
+    width: 42px;
+    height: 26px;
+}
+.g-text{
+    padding-top: 6px;
+    font-size: 17px;
+    margin-left: 124px;
+    color: #777272;
+}
